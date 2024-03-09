@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Ryoko7
-  - I do not use personal names unless approached for recruitment
   
 - 👀 I’m interested in software development and networking.
   - 🎀 I love music and anime.
